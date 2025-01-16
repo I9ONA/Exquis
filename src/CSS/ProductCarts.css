@@ -1,0 +1,109 @@
+/* General styling for the cart page */
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    font-family: 'Georgia', serif;
+    background-color: #f9f5f2; /* Soft background */
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cart-item {
+    display: flex;
+    gap: 15px;
+    padding: 15px;
+    background: #fff; /* White card for each product */
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    align-items: center;
+  }
+  
+  .product-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-details {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .product-details h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #5d5247;
+  }
+  
+  .product-details p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #7c6f67;
+  }
+  
+  .action-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .delete-btn, .confirm-btn {
+    background: linear-gradient(90deg, #d4b5a8, #c59a8c);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'Georgia', serif;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .delete-btn:hover {
+    background: linear-gradient(90deg, #f08080, #e06666); /* Red gradient for delete */
+    transform: scale(1.05);
+  }
+  
+  .confirm-btn:hover {
+    background: linear-gradient(90deg, #0cc151, #0cc151); /* Darker gradient for confirm */
+    transform: scale(1.05);
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #a18072;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .cart-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .product-image {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .action-buttons {
+      flex-direction: column;
+      width: 100%;
+    }
+  
+    .delete-btn, .confirm-btn {
+      width: 100%;
+      text-align: center;
+    }
+  }
+  

@@ -1,0 +1,20 @@
+{
+  "admin": [
+    {
+      "username": "Jalal_Elmahmoudi",
+      "email": "JalalMahmoudi@gmail.com",
+      "password": "password123"
+    },
+    {
+      "username": "Omar_yarane",
+      "email": "OmarYarane@gmail.com",
+      "password": "password456"
+    },
+    {
+      "username": "Oussama_mame",
+      "email": "OussamaMame@gmail.com",
+      "password": "password789"
+    }
+  ],
+  "user": []
+}

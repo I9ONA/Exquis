@@ -1,0 +1,339 @@
+{
+    "Armani": [
+      {
+        "id": 1,
+        "name": "Armani Code Profumo",
+        "price": 150.00,
+        "img": "./menimages/Armani_Code.jpeg",
+        "description": "A rich and intense fragrance with notes of leather and tonka bean.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Armani Stronger With You",
+        "price": 120.00,
+        "img": "./menimages/StrongerWithYou.jpg",
+        "description": "A sweet, spicy fragrance with warm vanilla and chestnut notes.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Armani Sì Passione",
+        "price": 130.00,
+        "img": "./menimages/passione.jpg",
+        "description": "A floral, fruity fragrance with a hint of vanilla and woodiness.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Armani Emporio Because It's You",
+        "price": 110.00,
+        "img": "./menimages/emporio.jpeg",
+        "description": "A fruity floral fragrance with notes of raspberry and musk.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.5,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Armani Aqua Di Gio Profondo",
+        "price": 140.00,
+        "img": "./menimages/profondo.jpg",
+        "description": "A marine-inspired scent with notes of sea breeze and bergamot.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Armani My Way",
+        "price": 120.00,
+        "img": "./menimages/myway.webp",
+        "description": "A floral fragrance with jasmine, orange blossom, and a woody base.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Armani Acqua Di Gio",
+        "price": 100.00,
+        "img": "./menimages/Armani_Acqua_di_Gio.jpeg",
+        "description": "A fresh aquatic scent with citrus and marine notes.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Armani Si",
+        "price": 115.00,
+        "img": "./menimages/si.jpeg",
+        "description": "An elegant fragrance with blackcurrant, rose, and vanilla.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Armani Code Ultimate",
+        "price": 160.00,
+        "img": "./menimages/ultimate.jpeg",
+        "description": "A bold and intense scent with leather, saffron, and vanilla.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Armani Si Intense",
+        "price": 125.00,
+        "img": "./menimages/siIntense.jpeg",
+        "description": "A deeper version of Si with added intensity of amber and vanilla.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      }
+    ],
+    "Dior": [
+      {
+        "id": 1,
+        "name": "Dior Sauvage",
+        "price": 130.00,
+        "img": "./menimages/Dior_Sauvage.jpeg",
+        "description": "A fresh and spicy fragrance with bergamot, pepper, and lavender.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Dior Homme Intense",
+        "price": 150.00,
+        "img": "./menimages/Dior_Homme_Intense.jpeg",
+        "description": "A woody and floral scent with iris and vetiver notes.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Dior Addict",
+        "price": 135.00,
+        "img": "./menimages/Dior_Addict.png",
+        "description": "A sensual fragrance with vanilla, mandarin, and jasmine.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Dior Homme Sport",
+        "price": 125.00,
+        "img": "./menimages/Dior_Homme_Sport.webp",
+        "description": "A fresh and sporty fragrance with grapefruit, ginger, and vetiver.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.5,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Dior Joy",
+        "price": 140.00,
+        "img": "./menimages/Dior_Joy.jpeg",
+        "description": "A luminous floral fragrance with jasmine, grapefruit, and sandalwood.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Dior Homme Sport Eau Extreme",
+        "price": 145.00,
+        "img": "./menimages/Dior_Homme_Sport_Eau_Extreme.jpeg",
+        "description": "An intense and dynamic fragrance with citrus and woody notes.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Dior Poison Girl",
+        "price": 155.00,
+        "img": "./menimages/Dior_Poison_Girl.jpeg",
+        "description": "A sweet and fruity fragrance with orange blossom, rose, and almond.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Dior Fahrenheit",
+        "price": 120.00,
+        "img": "./menimages/Dior_Fahrenheit.jpeg",
+        "description": "A classic and bold fragrance with leather, violet, and orange blossom.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Dior Addict Sublime",
+        "price": 150.00,
+        "img": "./menimages/Dior_Addict_Sublime.jpg",
+        "description": "A luxurious fragrance with amber, mandarin, and magnolia.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Dior Homme Sport Extreme",
+        "price": 160.00,
+        "img": "./menimages/Dior_Homme_Sport_Extreme.jpeg",
+        "description": "An ultra-fresh fragrance with notes of grapefruit, lavender, and cedarwood.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      }
+    ],
+    "Gucci": [
+      {
+        "id": 1,
+        "name": "Gucci Guilty",
+        "price": 140.00,
+        "img": "./menimages/Gucci_Guilty_Black.jpeg",
+        "description": "A bold and seductive fragrance with notes of pink pepper, lilac, and amber.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Gucci Bloom",
+        "price": 130.00,
+        "img": "./menimages/Gucci_Bloom.avif",
+        "description": "A fresh and floral fragrance with jasmine, tuberose, and orris.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Gucci Guilty Intense",
+        "price": 150.00,
+        "img": "./menimages/Gucci_Guilty_Intense.jpeg",
+        "description": "A deep and captivating scent with notes of patchouli, lavender, and cedarwood.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Gucci Bamboo",
+        "price": 135.00,
+        "img": "./menimages/Gucci_Bamboo.jpeg",
+        "description": "A sophisticated fragrance with notes of orange blossom, lily, and sandalwood.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.5,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Gucci Rush",
+        "price": 125.00,
+        "img": "./menimages/Gucci_Rush.jpeg",
+        "description": "A spicy and woody fragrance with notes of gardenia, patchouli, and vanilla.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.4,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Gucci Pour Homme",
+        "price": 160.00,
+        "img": "./menimages/Gucci_Pour_Homme.jpeg",
+        "description": "A fresh and aromatic scent with lavender, bergamot, and sandalwood.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Gucci Flora",
+        "price": 145.00,
+        "img": "./menimages/Gucci_Flora.jpeg",
+        "description": "A delicate floral fragrance with peony, rose, and osmanthus.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Gucci Made to Measure",
+        "price": 155.00,
+        "img": "./menimages/Gucci_Made_to_Measure.webp",
+        "description": "An elegant scent with notes of cinnamon, leather, and vetiver.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Gucci Guilty Pour Homme",
+        "price": 170.00,
+        "img": "./menimages/Gucci_Guilty_Pour_Homme.jpg",
+        "description": "A sensual and powerful fragrance with orange, patchouli, and cedarwood.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Gucci Guilty Absolute",
+        "price": 185.00,
+        "img": "./menimages/Gucci_Guilty_Pour_Homme2.jpeg",
+        "description": "A rich and opulent fragrance with notes of leather, vetiver, and bergamot.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      }
+    ]
+}
+     

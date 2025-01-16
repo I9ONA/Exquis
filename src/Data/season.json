@@ -1,0 +1,450 @@
+{
+    "Winter": [
+      {
+        "id": 1,
+        "name": "Tom Ford Tobacco Vanille",
+        "price": 230.00,
+        "img": "./menimages/Tom_Ford_Tobacco_Vanille.webp",
+        "description": "A warm and spicy scent with notes of tobacco, vanilla, and cacao.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "YSL La Nuit de l'Homme",
+        "price": 120.00,
+        "img": "./menimages/Yves_Saint_Laurent_La_Nuit_de_LHomme.jpg",
+        "description": "A seductive and spicy fragrance with cardamom and cedarwood.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Dior Hypnotic Poison",
+        "price": 140.00,
+        "img": "./menimages/Dior_Hypnotic_Poison.webp",
+        "description": "A sweet and mysterious scent with vanilla, almond, and jasmine.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Creed Aventus",
+        "price": 450.00,
+        "img": "./menimages/Creed_Aventus.jpg",
+        "description": "A bold and fruity fragrance with pineapple, birch, and musk.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Jo Malone Velvet Rose & Oud",
+        "price": 180.00,
+        "img": "./menimages/elvet_rose_oud.jpeg",
+        "description": "A luxurious scent with damask rose, oud, and clove.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Byredo Black Saffron",
+        "price": 190.00,
+        "img": "./menimages/black_saffron.avif",
+        "description": "A spicy and leathery fragrance with saffron, leather, and raspberry.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Maison Francis Kurkdjian Baccarat Rouge 540",
+        "price": 325.00,
+        "img": "./menimages/baccarat_rouge_540.webp",
+        "description": "A warm and woody scent with ambergris, cedarwood, and jasmine.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Kilian Black Phantom",
+        "price": 295.00,
+        "img": "./menimages/black_phantom.jpg",
+        "description": "A dark and mysterious fragrance with rum, coffee, and almond.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Le Labo Santal 33",
+        "price": 280.00,
+        "img": "./menimages/santal_33.jpeg",
+        "description": "A woody and spicy scent with sandalwood, cardamom, and violet.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Frederic Malle Portrait of a Lady",
+        "price": 350.00,
+        "img": "./menimages/portrait_of_a_lady.jpeg",
+        "description": "A rich and floral fragrance with rose, patchouli, and incense.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      }
+    ],
+    "Spring": [
+      {
+        "id": 1,
+        "name": "Gucci Bloom",
+        "price": 130.00,
+        "img": "./menimages/Gucci_Bloom.avif",
+        "description": "A fresh floral scent with tuberose, jasmine, and orris.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Chanel Chance Eau Tendre",
+        "price": 135.00,
+        "img": "./menimages/chance_eau_tendre.jpeg",
+        "description": "A fruity and floral fragrance with grapefruit and jasmine.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Jo Malone English Pear & Freesia",
+        "price": 140.00,
+        "img": "./menimages/english_pear_freesia.webp",
+        "description": "A fresh and fruity scent with pear, freesia, and patchouli.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Diptyque Do Son",
+        "price": 160.00,
+        "img": "./menimages/do_son.webp",
+        "description": "A floral and aquatic fragrance with tuberose, orange blossom, and musk.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Marc Jacobs Daisy",
+        "price": 110.00,
+        "img": "./menimages/daisy.jpg",
+        "description": "A light and airy scent with strawberry, violet, and jasmine.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Hermès Un Jardin Sur Le Nil",
+        "price": 150.00,
+        "img": "./menimages/un_jardin_sur_le_nil.jpeg",
+        "description": "A green and citrusy fragrance with grapefruit, mango, and lotus.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Byredo Gypsy Water",
+        "price": 190.00,
+        "img": "./menimages/gypsy_water.webp",
+        "description": "A bohemian scent with bergamot, juniper berries, and vanilla.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Tom Ford Neroli Portofino",
+        "price": 250.00,
+        "img": "./menimages/neroli_portofino.jpeg",
+        "description": "A fresh and citrusy fragrance with neroli, bergamot, and amber.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Chloé Nomade",
+        "price": 125.00,
+        "img": "./menimages/nomade.webp",
+        "description": "A floral and woody scent with mirabelle, oakmoss, and freesia.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Dior J'adore",
+        "price": 150.00,
+        "img": "./womenimages/j'adore.webp",
+        "description": "A luxurious floral fragrance with jasmine, rose, and ylang-ylang.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      }
+    ],
+    "Summer": [
+      {
+        "id": 1,
+        "name": "Dolce & Gabbana Light Blue",
+        "price": 120.00,
+        "img": "./womenimages/light_blue.jpg",
+        "description": "A fresh and citrusy scent with Sicilian lemon and apple.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Armani Acqua Di Gio Profondo",
+        "price": 140.00,
+        "img": "./menimages/Armani_Acqua_di_Gio.jpeg",
+        "description": "A marine-inspired scent with bergamot and rosemary.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Creed Virgin Island Water",
+        "price": 400.00,
+        "img": "./menimages/virgin_island_water.webp",
+        "description": "A tropical scent with coconut, lime, and bergamot.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Jo Malone Lime Basil & Mandarin",
+        "price": 140.00,
+        "img": "./menimages/lime_basil_mandarin.jpg",
+        "description": "A zesty and herbal fragrance with lime, basil, and mandarin.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Maison Margiela Replica Beach Walk",
+        "price": 145.00,
+        "img": "./menimages/beach_walk.jpeg",
+        "description": "A sunny and salty scent with bergamot, coconut milk, and musk.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Tom Ford Costa Azzurra",
+        "price": 250.00,
+        "img": "./menimages/costa_azzurra.jpeg",
+        "description": "A fresh and woody fragrance with seaweed, amber, and driftwood.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Chanel Allure Homme Sport",
+        "price": 130.00,
+        "img": "./menimages/Chanel_Allure_Homme_Sport.jpg",
+        "description": "A sporty and fresh scent with mandarin, cedar, and amber.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Versace Eros",
+        "price": 110.00,
+        "img": "./images/Versace_Eros.jpg",
+        "description": "A vibrant and fresh fragrance with mint, green apple, and tonka bean.",
+        "category": "Men's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Issey Miyake L'Eau d'Issey",
+        "price": 100.00,
+        "img": "./menimages/Issey_Miyake_LEau_dIssey_Pour_Homme.jpg",
+        "description": "A fresh and aquatic scent with lotus, freesia, and musk.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.6,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Guerlain Aqua Allegoria Pera Granita",
+        "price": 120.00,
+        "img": "./menimages/pera_granita.jpeg",
+        "description": "A fruity and fresh fragrance with pear, bergamot, and musk.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      }
+    ],
+    "Autumn": [
+      {
+        "id": 1,
+        "name": "Maison Margiela Replica By The Fireplace",
+        "price": 145.00,
+        "img": "./menimages/by_the_fireplace.jpeg",
+        "description": "A warm and cozy fragrance with chestnut, vanilla, and woods.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "YSL Black Opium",
+        "price": 130.00,
+        "img": "./menimages/black_opium.jpeg",
+        "description": "A dark and sweet scent with coffee, vanilla, and white flowers.",
+        "category": "Women's Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 3,
+        "name": "Tom Ford Oud Wood",
+        "price": 300.00,
+        "img": "./menimages/Tom_Ford_Oud_Wood.jpeg",
+        "description": "A rich and woody fragrance with oud, sandalwood, and tonka bean.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 4,
+        "name": "Jo Malone Pomegranate Noir",
+        "price": 140.00,
+        "img": "./menimages/Chanel_Allure_Homme_Sport2.png",
+        "description": "A fruity and spicy scent with pomegranate, raspberry, and patchouli.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 5,
+        "name": "Le Labo Thé Noir 29",
+        "price": 280.00,
+        "img": "./menimages/the_noir_29.jpeg",
+        "description": "A warm and smoky fragrance with fig, bay leaves, and cedarwood.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 6,
+        "name": "Byredo Black Saffron",
+        "price": 190.00,
+        "img": "./menimages/black_saffron.avif",
+        "description": "A spicy and leathery fragrance with saffron, leather, and raspberry.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      },
+      {
+        "id": 7,
+        "name": "Diptyque Tam Dao",
+        "price": 160.00,
+        "img": "./menimages/Diptyque_Tam_Dao.jpeg",
+        "description": "A woody and earthy scent with sandalwood, cedar, and amber.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 8,
+        "name": "Frederic Malle Musc Ravageur",
+        "price": 350.00,
+        "img": "./menimages/Frederic_Malle_Musc_Ravageur.jpeg",
+        "description": "A sensual and spicy fragrance with musk, vanilla, and cinnamon.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.9,
+        "inStock": true
+      },
+      {
+        "id": 9,
+        "name": "Kilian Intoxicated",
+        "price": 295.00,
+        "img": "./menimages/Kilian_Intoxicated.jpg",
+        "description": "A warm and spicy scent with cardamom, cinnamon, and coffee.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.8,
+        "inStock": true
+      },
+      {
+        "id": 10,
+        "name": "Serge Lutens Fille en Aiguilles",
+        "price": 200.00,
+        "img": "./menimages/fille_en_aiguilles.jpeg",
+        "description": "A resinous and woody fragrance with pine, incense, and dried fruits.",
+        "category": "Unisex Perfume",
+        "quantity": 1,
+        "rating": 4.7,
+        "inStock": true
+      }
+    ]
+  }

@@ -1,0 +1,138 @@
+.contact-container {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.contact-container h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.contact-description {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 30px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 12px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 5px;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #a18072;
+  outline: none;
+}
+
+.submit-btn {
+  padding: 12px 20px;
+  font-size: 1.1rem;
+  color: white;
+  background-color: #a18072;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+.submit-btn:hover {
+  background-color: #8f6d5e;
+}
+
+.contact-details {
+  margin-top: 50px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-details h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.contact-details p {
+  font-size: 1rem;
+  color: #555;
+  margin: 8px 0;
+}
+
+@media (min-width: 768px) {
+  .contact-container {
+    max-width: 1200px;
+    padding: 40px 20px;
+  }
+
+  .contact-container h1 {
+    font-size: 36px;
+  }
+
+  .contact-description {
+    font-size: 18px;
+  }
+
+  .contact-form {
+    padding: 30px;
+  }
+
+  .form-group label {
+    font-size: 16px;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    font-size: 16px;
+  }
+
+  .submit-btn {
+    font-size: 18px;
+  }
+
+  .contact-details h2 {
+    font-size: 28px;
+  }
+
+  .contact-details p {
+    font-size: 16px;
+  }
+}
